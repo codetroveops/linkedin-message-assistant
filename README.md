@@ -2,6 +2,12 @@
 
 Craft professional and personalized LinkedIn connection messages in seconds.
 
+### 💬 Dev-Friendly LinkedIn Message Generator — No Login. No Limits. Just Clean Code.
+
+### Tired of generic LinkedIn messages or tools asking for logins and API keys?
+
+linkedin-message-assistant is a lightweight, offline-friendly Python tool that helps developers, freelancers, and job seekers instantly generate personalized LinkedIn connection messages — without compromising privacy or needing any external logins.
+
 ---
 
 ## 📌 What It Does
