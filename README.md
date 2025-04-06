@@ -60,13 +60,14 @@ Charlie,Data Scientist,Meta
 
 ### The premium version will include:
 
-####  Feature	                                 Freemium	    Premium
-####  Single message generator	                    ✅	         ✅
-####  Bulk CSV import	                            ✅	         ✅
-####  Multiple tones (casual, professional, witty)	❌	         ✅
-####  Export to file (txt/csv)	                    ❌	         ✅
-####  Resume + pitch line generator	                ❌	         ✅
-####  Personal branding templates	                ❌	         ✅
+| Feature                            | Freemium | Premium   |
+|------------------------------------|:--------:|:---------:|
+| Single message generator           | ✅       | ✅       |
+| Bulk CSV import                    | ✅       | ✅       |
+| Multiple tones (casual, witty...)  | ❌       | ✅       |
+| Export to file (txt/csv)           | ❌       | ✅       |
+| Resume + pitch line generator      | ❌       | ✅       |
+| Personal branding templates        | ❌       | ✅       |
 
 ## 🚀 Stay Notified
 
